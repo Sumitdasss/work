@@ -3,20 +3,34 @@
     margin: 0;
 }
 
-
-
-
 .one{
     padding: 50px;
-    background-color: aquamarine;
+    background-color: tomato;
 }
 .two{
-    height: 50px;
-    width: 100%;
-    background-color: brown;
-    margin: auto;
-    
-    
-    
+
+    width: 1320px;
+
+margin: 0 auto;
 
 }
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+
+.two a ul li{
+    
+    
+    padding: 0px,20px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+
+}
+
